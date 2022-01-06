@@ -159,3 +159,7 @@ footer h3 span{
     align-items: center;
     justify-content: center;
 }
+
+.security-content img{
+    width: 60%;
+}
