@@ -91,6 +91,10 @@ p{
     
 }
 
+.mission-content > div.vission{
+    background: rgba(83, 92, 104,0.3);
+}
+
 .mission-content > div:last-child{
     background: rgba(255, 190, 118,0.5);
 }
